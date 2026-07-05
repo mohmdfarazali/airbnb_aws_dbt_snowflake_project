@@ -178,8 +178,7 @@ AWS_DBT_SNOWFLAKE/
     ├── analyses/
     │
     ├── dbt_project.yml
-    ├── packages.yml
-    └── profiles.yml.example
+    └── packages.yml
 ```
 
 ### Folder Overview
