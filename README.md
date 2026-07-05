@@ -133,9 +133,9 @@ AWS_DBT_SNOWFLAKE/
 │   ├── hosts.csv
 │   └── listings.csv
 │
-├── DDL/
+├── Scripts/
 │   ├── ddl.sql
-│   └── resources.sql
+│   └── loading_files.sql
 │
 └── aws_dbt_snowflake_project/
     │
