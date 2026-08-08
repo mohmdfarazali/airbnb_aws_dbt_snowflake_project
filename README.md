@@ -1,6 +1,7 @@
 # 🏠 Airbnb Data Engineering Pipeline on AWS, Snowflake & dbt
 
 ## 📋 Overview
+![AirBnb Data Engineering Project](aws_dbt_snowflake/AirBnb%20Project.png)
 
 This project demonstrates an end-to-end modern data engineering pipeline built using **AWS, Snowflake, and dbt**. The pipeline ingests Airbnb booking, listing, and host data into Snowflake and transforms it through a Medallion Architecture (Bronze → Silver → Gold) to produce analytics-ready datasets.
 
